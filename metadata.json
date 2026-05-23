@@ -1,0 +1,6 @@
+{
+  "name": "vess2 Blog",
+  "description": "Simple, clean, and elegant blog engine designed for blog.vess2.com. Features full editability, rich drafting, Supabase backend integration, and a Gemini AI writing assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
